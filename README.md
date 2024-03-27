@@ -1,5 +1,5 @@
 # Human-Resources-Dataset-Analysis-with-MySQL-and-Power-BI
-![dashboard](https://github.com/theomid80/Human-Resources-Dataset-Analysis-with-MySQL-and-Power-BI/assets/164475131/6789e7e1-ca26-4580-879c-71bd1f0a38af)
+![dashboard](https://github.com/theomid80/Human-Resources-Dataset-Analysis-with-MySQL-and-Power-BI/assets/164475131/afecce90-3133-44e6-b28f-9c6a0d85f5ec)
 # Data
 Human Resources Data with over 22000 rows from the year 2000 to 2020.
 ## Dataset Column Descriptions
